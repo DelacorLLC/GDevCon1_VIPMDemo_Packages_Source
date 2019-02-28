@@ -4,9 +4,6 @@
 [submodule "CML Shared"]
 	path = CML Shared
 	url = https://github.com/DelacorLLC/GDevCon1_VIPMDemo_CML-Shared.git
-[submodule "Launcher Support"]
-	path = Launcher Support
-	url = https://github.com/DelacorLLC/GDevCon1_VIPMDemo_Launcher-Support.git
 [submodule "Logger"]
 	path = Logger
 	url = https://github.com/DelacorLLC/GDevCon1_VIPMDemo_Logger.git
